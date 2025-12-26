@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=399505"
-#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=399498"
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=397399"
 
 
-#EXTINF:-1 tvg-id="399498" tvg-name="Astro Football" group-title="Malaysia",Astro Football
+#EXTINF:-1 tvg-id="397399" tvg-name="Astro Football" group-title="Malaysia",Astro Football
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 
-#EXTINF:-1 tvg-name="香港衛視 Hong Kong Satellite TV" group-title="Hong Kong",HK Satellite TV
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-name="Astro Arena" group-title="Malaysia",Astro Arena
+http://tv123.vvvv.ee/live.php/?ch=529f7923849
 
 #EXTINF:-1 tvg-name="RTM Sukan" group-title="Malaysia",RTM Sukan
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
@@ -25,3 +25,4 @@ http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 
 #EXTINF:-1 tvg-name="RTHK TV 32" group-title="Hong Kong",RTHK TV 32
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
+
